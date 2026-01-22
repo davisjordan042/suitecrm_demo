@@ -12,3 +12,8 @@ Operationalized customer segmentation insights in SuiteCRM by creating custom fi
   <em>SuiteCRM Postgre Data Integration and Filter</em>
 </p>
 
+<p align="center">
+  <img width="1920" height="1080" alt="suitecrm detailed data in excel" src="https://github.com/user-attachments/assets/fa07e4eb-859e-4690-9348-61d9603aaa27" />
+  <br>
+  <em>suitecrm detailed data in excel</em>
+</p>
